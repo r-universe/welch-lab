@@ -8,6 +8,10 @@
 [submodule "RcppPlanc"]
 	path = RcppPlanc
 	url = https://github.com/welch-lab/RcppPlanc
+[submodule "SPARK"]
+	path = SPARK
+	url = https://github.com/xzhoulab/SPARK
+	registered = false
 [submodule "SiNMFiD"]
 	path = SiNMFiD
 	url = https://github.com/welch-lab/SiNMFiD
