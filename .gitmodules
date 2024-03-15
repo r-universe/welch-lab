@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/welch-lab/welch-lab.r-universe.dev
 	branch = HEAD
-[submodule "CytoSignal"]
-	path = CytoSignal
-	url = https://github.com/welch-lab/cytosignal
 [submodule "CytoSimplex"]
 	path = CytoSimplex
 	url = https://github.com/welch-lab/CytoSimplex
@@ -14,6 +11,9 @@
 [submodule "SiNMFiD"]
 	path = SiNMFiD
 	url = https://github.com/welch-lab/SiNMFiD
+[submodule "cytosignal"]
+	path = cytosignal
+	url = https://github.com/welch-lab/cytosignal
 [submodule "rliger"]
 	path = rliger
 	url = https://github.com/welch-lab/liger
