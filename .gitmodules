@@ -1,10 +1,19 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/welch-lab/welch-lab.r-universe.dev
 	branch = HEAD
+[submodule "CytoSignal"]
+	path = CytoSignal
+	url = https://github.com/welch-lab/cytosignal
 [submodule "CytoSimplex"]
 	path = CytoSimplex
-	url = https://github.com/welch-lab/cytosimplex
+	url = https://github.com/welch-lab/CytoSimplex
+[submodule "RcppPlanc"]
+	path = RcppPlanc
+	url = https://github.com/welch-lab/RcppPlanc
+[submodule "SiNMFiD"]
+	path = SiNMFiD
+	url = https://github.com/welch-lab/SiNMFiD
 [submodule "rliger"]
 	path = rliger
 	url = https://github.com/welch-lab/liger
